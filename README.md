@@ -121,11 +121,6 @@ Olá! Me chamo João Vitor, estudante de Análise e Desenvolvimento de Sistemas 
     src="https://github-readme-stats.vercel.app/api?username=JaoOliveira25&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoOliveira25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=3600" 
-  />
+
 
 </p>
