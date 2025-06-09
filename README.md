@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java FullStack`**
 
-Olá! Me chamo João Vitor, estudante de Análise e Desenvolvimento de Sistemas (3º semestre na Unicesumar), com foco em desenvolvimento full-stack. Tenho uma base sólida em Java, POO, SQL e JavaScript. Atualmente, estou me dedicando à criação de projetos full-stack com foco em Java, com o objetivo de colocar em prática meus conhecimentos e compartilhar minha evolução aqui no GitHub.
+Olá! Me chamo João Vitor, estudante de Análise e Desenvolvimento de Sistemas (3º semestre), com foco em desenvolvimento full-stack. Tenho uma base sólida em Java, POO, SQL e JavaScript. Atualmente, estou me dedicando à criação de projetos full-stack com foco em Java, com o objetivo de colocar em prática meus conhecimentos e compartilhar minha evolução aqui no GitHub.
 
 
 
